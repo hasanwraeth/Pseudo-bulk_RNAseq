@@ -7,4 +7,4 @@ Pseudo-bulk_RNAseq from snRNAseq using R based array division.
 
 Heatmap of Pseudo-bulk_RNAseq        
 :-------------------------:
-![](https://github.com/hasanwraeth/snRNAseq/blob/main/UMAP.png)
+![](https://github.com/hasanwraeth/Pseudo-bulk_RNAseq/blob/main/Picture1.png)
